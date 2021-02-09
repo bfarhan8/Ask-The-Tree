@@ -1,0 +1,186 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ask_The_Tree.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="btn1E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the specialties of the Pediatric Department at King Faisal Specialist Hospital And Research Center?</Value>
+    </Setting>
+    <Setting Name="btn2E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What is Cystic Fibrosis?</Value>
+    </Setting>
+    <Setting Name="btn3E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What is the importance of vaccination for children?</Value>
+    </Setting>
+    <Setting Name="btn4E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What is primary immunodeficiency?</Value>
+    </Setting>
+    <Setting Name="btn5E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How to choose what is healthy for your child?</Value>
+    </Setting>
+    <Setting Name="btn6E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Why is breastfeeding recommended for your child?</Value>
+    </Setting>
+    <Setting Name="btn7E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How to protect your child from traffic accident injuries?</Value>
+    </Setting>
+    <Setting Name="btn8E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are there types of diabetes?</Value>
+    </Setting>
+    <Setting Name="btn9E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Is violence limited to physical violence?</Value>
+    </Setting>
+    <Setting Name="btn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ماهي التخصصات التي يشملها قسم طب الأطفال في مستشفى الملك فيصل التخصصي ومركز الأبحاث؟  </Value>
+    </Setting>
+    <Setting Name="btn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ماهو مرض التليف الكيسي الرئوي البنكرياسي؟  </Value>
+    </Setting>
+    <Setting Name="btn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما أهمية اللقاحات الأولية للأطفال؟  </Value>
+    </Setting>
+    <Setting Name="btn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ماهو مرض نقص المناعة الأولية؟  </Value>
+    </Setting>
+    <Setting Name="btn5A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف تختار الطعام الصحي لطفلك؟  </Value>
+    </Setting>
+    <Setting Name="btn6A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ماذا ينصح بالرضاعة الطبيعية للطفل؟  </Value>
+    </Setting>
+    <Setting Name="btn7A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف تقي طفلك من خطر الإصابة من الحوادث المرورية؟  </Value>
+    </Setting>
+    <Setting Name="btn8A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل هناك أنواع لمرض السكري؟  </Value>
+    </Setting>
+    <Setting Name="btn9A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل يقتصر العنف على العنف الجسدي؟  </Value>
+    </Setting>
+    <Setting Name="btn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording1.m4a</Value>
+    </Setting>
+    <Setting Name="btn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording2.m4a</Value>
+    </Setting>
+    <Setting Name="btn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording3.m4a</Value>
+    </Setting>
+    <Setting Name="btn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording4.m4a</Value>
+    </Setting>
+    <Setting Name="btn5AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording5.m4a</Value>
+    </Setting>
+    <Setting Name="btn6AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording6.m4a</Value>
+    </Setting>
+    <Setting Name="btn7AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording7.m4a</Value>
+    </Setting>
+    <Setting Name="btn8AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording8.m4a</Value>
+    </Setting>
+    <Setting Name="btn9AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording9.m4a</Value>
+    </Setting>
+    <Setting Name="btn1AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording1.m4a</Value>
+    </Setting>
+    <Setting Name="btn2AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording2.m4a</Value>
+    </Setting>
+    <Setting Name="btn3AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording3.m4a</Value>
+    </Setting>
+    <Setting Name="btn4AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording4.m4a</Value>
+    </Setting>
+    <Setting Name="btn5AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording5.m4a</Value>
+    </Setting>
+    <Setting Name="btn6AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording6.m4a</Value>
+    </Setting>
+    <Setting Name="btn7AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording7.m4a</Value>
+    </Setting>
+    <Setting Name="btn8AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording8.m4a</Value>
+    </Setting>
+    <Setting Name="btn9AudioE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording9.m4a</Value>
+    </Setting>
+    <Setting Name="destPage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E</Value>
+    </Setting>
+    <Setting Name="btnExtraAudio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Audio Test/Recording10.m4a</Value>
+    </Setting>
+    <Setting Name="btnExtra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">افتتاح</Value>
+    </Setting>
+    <Setting Name="btn1Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn2Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn3Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn4Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn5Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn6Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn7Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn8Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn9Esize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn1Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn2Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn3Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn4Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn5Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn6Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn7Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn8Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btn9Asize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20.0</Value>
+    </Setting>
+    <Setting Name="btnExtraSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">22.0</Value>
+    </Setting>
+    <Setting Name="btnBackEsize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">28.0</Value>
+    </Setting>
+    <Setting Name="btnBackAsize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">28.0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
